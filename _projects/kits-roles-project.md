@@ -1,20 +1,20 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Kits Roles'
+subtitle: 'Usability Testing'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: In this project, I conducted application and user research to learn how the team should design roles in the Kits product.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
-
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+In 2019, I conducted usability testing for a new design and discovered that users were confused about the role names and permissions in our product.  The product, Kits, has two different types of 'kits' - one for learning and one for collaboration and we were using the same set of roles for both types. Kits is a middleware product that integrates with many other apps, and users were struggling to make associates between Kits roles and roles in integrated apps.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+![](/images/demo/demo-landscape.jpg)
 
 You can create lists:
 
