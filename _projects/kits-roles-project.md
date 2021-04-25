@@ -21,6 +21,7 @@ Using what I learned through testing, I created a project plan to improve role n
 
 The overall process would involve research of role names of integrated collaboration tools, more user research to understand users' mental models of roles names and permissions across tools, selection of new roles based on this research and more usability testing.
 
+
 **Research**  -->  **Usability Test** --> **Prototype** --> **Usability Test** --> **Roll out**
 
 ---
