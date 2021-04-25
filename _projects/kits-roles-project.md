@@ -6,47 +6,35 @@ description: In this project, I conducted application and user research to learn
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-## Demo content
 
-In 2019, I conducted usability testing for a new design and discovered that users were confused about the role names and permissions in our product.  The product, Kits, has two different types of 'kits' - one for learning and one for collaboration and we were using the same set of roles for both types. Kits is a middleware product that integrates with many other apps, and users were struggling to make associates between Kits roles and roles in integrated apps.
+In 2019, I conducted usability testing for a new design and discovered that users were confused about role names and permissions in our product, Kits.  Kits is a middleware product that integrates with many other apps has two different types of 'kits' - one for learning and one for collaboration. The same set of roles were used for both types - instructor, assistant, and student.  Users did not associate these role with collaboration kits, nor were they able to translate these roles easily to roles in integrated apps.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Using what I learned from the usability testing about users understanding of roles, I created a project plan to improve role naming.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+**Problem**: Users don't associate existing role names with collaboration kits.
 
-![](/images/demo/demo-landscape.jpg)
+**Hypothesis**: Role names used in other collaboration tools are expected.
 
-You can create lists:
+**Metric**: Users will select the correct role for collaborators based on permissions needed 85% of the time during the final round of usability testing.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+The overall process would involve research of role names of integrated collaboration tools, more user research to understand users' mental models of roles names and permissions across tools, selection of new roles based on this research and more usability testing.
 
-And:
+**Research**  -->  **Usability Test** --> **Prototype** --> **Usability Test** --> **Roll out**
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+Since many other tools are connected to Kits, I started with an evaluation of roles across all integrated tools.
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+(screenshot of tool roles)
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+To better understand users' mental models of roles and permissions associated with roles, I conducted a card sorting activity to learn how users would categorize roles across the application and with integrated tools.
 
-The theme also supports markdown tables:
+(screenshot of card sorting)
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+**Outcome**
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+Through conducting a usability with new role names - Owner, Editor, and Viewer - we discovered that these roles were selected correctly by 90% of users based on the role's permissions in the kit.
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+These role names have been added to the product and we have not received any negative feedback in user interviews or support tickets related to the new roles.
 
-You can throw in some horizontal rules too:
 
 ---
 
@@ -77,30 +65,3 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
