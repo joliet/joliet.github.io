@@ -9,7 +9,9 @@ featured_image: '/images/demo/demo-square.jpg'
 
 In 2019, I conducted usability testing for a new design and discovered that users were confused about role names and permissions in our product, Kits.  Kits is a middleware product that integrates with many other apps has two different types of 'kits' - one for learning and one for collaboration. The same set of roles were used for both types - instructor, assistant, and student.  Users did not associate these role with collaboration kits, nor were they able to translate these roles easily to roles in integrated apps.
 
-Using what I learned from the usability testing about users understanding of roles, I created a project plan to improve role naming.
+---
+
+Using what I learned through testing, I created a project plan to improve role naming.
 
 **Problem**: Users don't associate existing role names with collaboration kits.
 
@@ -21,6 +23,8 @@ The overall process would involve research of role names of integrated collabora
 
 **Research**  -->  **Usability Test** --> **Prototype** --> **Usability Test** --> **Roll out**
 
+---
+
 Since many other tools are connected to Kits, I started with an evaluation of roles across all integrated tools.
 
 (screenshot of tool roles)
@@ -28,6 +32,8 @@ Since many other tools are connected to Kits, I started with an evaluation of ro
 To better understand users' mental models of roles and permissions associated with roles, I conducted a card sorting activity to learn how users would categorize roles across the application and with integrated tools.
 
 (screenshot of card sorting)
+
+---
 
 **Outcome**
 
