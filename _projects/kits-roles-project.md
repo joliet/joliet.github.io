@@ -38,7 +38,7 @@ To better understand users' mental models of roles and permissions associated wi
 
 **Outcome**
 
-Through conducting a usability with new role names - Owner, Editor, and Viewer - we discovered that these roles were selected correctly by 90% of users based on the role's permissions in the kit.
+Conducting a usability test with new role names - Owner, Editor, and Viewer - we discovered that these roles were selected correctly by 90% of users based on the role's permissions in the collaboration kit.
 
 These role names have been added to the product and we have not received any negative feedback in user interviews or support tickets related to the new roles.
 
