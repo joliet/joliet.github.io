@@ -12,19 +12,20 @@ A few examples of UX workshops I've designed and conducted.
 ---
 
 **Design Thinking**
-I was asked to assist in leading a design thinking workshop for the 'Hack Your Eduction' Spring Breakthrough course in collaboration with two faculty and two other members of my team. Specifically, my role was provide guidance for ideation techniques and to help students design a usability test appropriate for their prototype.  A working knowledge of many techiques for ideation and testing was required as I wouldn't know the details of the project until I stepped into the classroom - ideas were rapidly evolving.
+
+I was asked to assist in leading a design thinking workshop for the 'Hack Your Eduction' Spring Breakthrough course in collaboration with two faculty and two other members of my team. Specifically, my role was provide guidance for ideation techniques and to help students design a usability test appropriate for their prototype.  A working knowledge of many techniques for ideation and testing was required as I wouldn't know the details of the project until I stepped into the classroom - ideas were rapidly evolving.
 
 The students had chosen a project to promote the adoption of open educational resources which they hoped would make course materials more affordable and accessible should more faculty adopt them.  They had designed a series of promotional assets.  I suggested they test these materials in two ways - with a five-second test to validate the effectiveness of their messages, and with role playing to ensure their messages would resonate with faculty.
 
 Questions asked in the 5-second usabiity test:
 
-1. What do you remember from the page you just saw?
-2. What do you think is the purpose of the page?
-3. What was the most prominent element that you remember from the page?
+	1. What do you remember from the page you just saw?
+	2. What do you think is the purpose of the page?
+	3. What was the most prominent element that you remember from the page?
 
 For the role playing exercise, I used IDEO's Design Kit to share the description and steps of the activity.
 
-[IDEO Design Kit - Role Play](https://designkit.org/methods/36)
+[IDEO Design Kit - Role Play](https://www.designkit.org/methods/36)
 
 ![](/images/discovery/)
 
@@ -32,7 +33,7 @@ For the role playing exercise, I used IDEO's Design Kit to share the description
 
 **User Story Mapping with Elevator Pitch** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/discovery/)
 
 ---
 
