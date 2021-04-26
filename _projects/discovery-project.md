@@ -19,9 +19,9 @@ The students had chosen a project to promote the adoption of open educational re
 
 Questions asked in the 5-second usability test:
 
-> 1. *What do you remember from the page you just saw?*
-> 2. *What do you think is the purpose of the page?*
-> 3. *What was the most prominent element that you remember from the page?*
+ 1. *What do you remember from the page you just saw?*
+ 2. *What do you think is the purpose of the page?*
+ 3. *What was the most prominent element that you remember from the page?*
 
 For the role playing exercise, I used IDEO's Design Kit to share the description and steps of the activity.
 
