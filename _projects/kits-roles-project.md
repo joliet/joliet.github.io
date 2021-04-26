@@ -34,11 +34,13 @@ To better understand users' mental models of roles and permissions, I conducted 
 
 ![](/images/kits/kits_roles_card_sort.png)
 
+With the outcomes of this research, I created a new prototype in Invision with new role names - Owner, Editor, and Viewer - and re-tested role selection with users. Ninety percent of users correctly selected roles based on the role's permissions in the collaboration kit.
+
+![](/images/kits/kits_roles_prototype.png)
+
 ---
 
 **Outcome**
-
-In conducting a usability test with new role names - Owner, Editor, and Viewer - we discovered these roles were selected correctly by 90% of users based on the role's permissions in the collaboration kit.
 
 These role names have been added to the product. We have not received any negative feedback in user interviews about these roles, nor have we received support requests related to role confusion or mismatch.
 
