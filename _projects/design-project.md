@@ -7,7 +7,7 @@ featured_image: '/images/demo/demo-square.jpg'
 ---
 
 
-Here are some examples of design work for different projects.
+A few recent examples of design work.
 
 ---
 
