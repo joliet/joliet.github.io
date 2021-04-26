@@ -17,7 +17,7 @@ I was asked to assist in leading a design thinking workshop for the 'Hack Your E
 
 The students had chosen a project to promote the adoption of open educational resources which they hoped would make course materials more affordable and accessible should more faculty adopt them.  They had designed a series of promotional assets.  I suggested they test these materials in two ways - with a five-second test to validate the effectiveness of their messages, and with role playing to ensure their messages would resonate with faculty.
 
-Questions asked in the 5-second usabiity test:
+Questions asked in the 5-second usability test:
 
 > 1. *What do you remember from the page you just saw?*
 > 2. *What do you think is the purpose of the page?*
