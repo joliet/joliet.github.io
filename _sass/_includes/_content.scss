@@ -295,7 +295,7 @@
 .image-wrap,
 .video-wrap {
 	position: relative;
-	max-width: 90%;
+	max-width: 60%;
 	margin: 20px auto;
 
 	@include mq(tabletp) {
