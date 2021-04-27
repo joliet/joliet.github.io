@@ -19,9 +19,9 @@ The students had chosen a project to promote the adoption of open educational re
 
 Questions asked in the 5-second usability test:
 
->>1. *What do you remember from the page you just saw?*
->>2. *What do you think is the purpose of the page?*
->>3. *What was the most prominent element that you remember from the page?*
+1. *What do you remember from the page you just saw?*
+2. *What do you think is the purpose of the page?*
+3. *What was the most prominent element that you remember from the page?*
 
 For the role playing exercise, I used IDEO's Design Kit to share the description and steps of the activity.
 
@@ -55,7 +55,7 @@ In spring 2021, I facilitated a discovery session for my team to learn how might
 
 Everyone on my team works closely with users and provides support for their service.  I get the team to think beyond the most common pain points and support requests, I chose to do an Assumption Smash exercise. This would allow the team to differentiate between facts, assumptions, ideas that need validating, and any gaps in our knowledge where we need to learn more about problem in order to identify solutions.
 
-![](/images/discover/assumption_smash_workshop.jpg)
+![](/images/discover/assumption_smash_workshop.png)
 
 
 ### Image galleries
