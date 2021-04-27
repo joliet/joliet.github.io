@@ -11,7 +11,7 @@ A few examples of UX workshops I've designed and conducted.
 
 ---
 
-**Design Thinking**
+#### Design Thinking
 
 I was asked to assist in leading a design thinking workshop for the 'Hack Your Eduction' Spring Breakthrough course in collaboration with two faculty and two other members of my team. Specifically, my role was provide guidance for ideation techniques and to help students design a usability test appropriate for their prototype.  A working knowledge of many techniques for ideation and testing was required as I wouldn't know the details of the project until I stepped into the classroom - ideas were rapidly evolving.
 
@@ -31,7 +31,7 @@ For the role playing exercise, I used IDEO's Design Kit to share the description
 
 ---
 
-**User Story Mapping with Elevator Pitch**
+#### User Story Mapping with Elevator Pitch
 
 In fall 2020, a few teammates approached me about facilitating a workshop for their project team that would help them gain product focus and scope out an MVP.  Some members of the team were frustrated by feature suggestions that seemed out of step with the original product vision, and the lack of focus left the developer confused about how to proceed building the tool.
 
@@ -49,7 +49,7 @@ Once the product's elevator pitch was written, the group moved to writing the us
 
 ---
 
-**Assumption Smash**
+#### Assumption Smash
 
 In spring 2021, I facilitated a discovery session for my team to learn how might improve the user experience of navigating the learning technology ecosystem of tools (from the instructor's perspective).
 
