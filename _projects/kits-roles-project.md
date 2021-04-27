@@ -2,7 +2,7 @@
 title: 'Kits Roles'
 subtitle: 'Usability Testing'
 date: 2018-06-30 00:00:00
-description: In this project, I conducted application and user research to learn how the team should design roles in the Kits product.
+description: Example of my work in usability testing.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
