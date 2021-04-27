@@ -1,54 +1,27 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Kits Help Site'
+subtitle: 'Content Strategy'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: An example of content I've designed for a help site.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+When I joined the Kits team in 2019, there was no documentation, just a form users could fill out requesting help.  And while the older version of the tool had a few documentation pages for most features, it lacked good information architecture and an easy way to search.
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Adding complete documentation to the application was a high priority before we starting shifting all users to the newly redesigned tool.  I had the following goals for the design of the new documentation:
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+1. A search option would be prominent in the design.
+2. The design and organization of the content would be inline with other supported tools.
+3. It could easily be updated by everyone on the team including non-technical staff.
+4. It had to be free and open source to align with our goal of open-sourcing the code.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+I decided that Jekyll would be a good fit.  Luckily, I found a Jekyll documentation theme, Just the Docs, that was nearly a perfect fit.  Some minor styling was all that was needed to incorporate the documentation with the product.
 
-You can create lists:
+The search box is persistent at the top of all documentation pages allowing users to quickly find the information they need.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+![](/images/kits/kits_help.png)
 
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
 
 ### Image galleries
 
@@ -77,30 +50,3 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
 ---
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
