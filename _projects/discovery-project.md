@@ -51,9 +51,9 @@ Once the product's elevator pitch was written, the group moved to writing the us
 
 #### Assumption Smash
 
-In spring 2021, I facilitated a discovery session for my team to learn how might improve the user experience of navigating the learning technology ecosystem of tools (from the instructor's perspective).
+In spring 2021, I facilitated a discovery session for my team to learn about how we might improve the user experience of navigating the learning technology ecosystem (from the instructor's perspective).
 
-Everyone on my team works closely with users and provides support for their service.  I get the team to think beyond the most common pain points and support requests, I chose to do an Assumption Smash exercise. This would allow the team to differentiate between facts, assumptions, ideas that need validating, and any gaps in our knowledge where we need to learn more about problem in order to identify solutions.
+Everyone on my team works closely with users and provides support for their service.  To get the team to think beyond the most common pain points and support requests, I chose to do an Assumption Smash exercise. This would allow the team to differentiate between facts, assumptions, ideas that need validating, and any gaps in our knowledge where we need to learn more about a problem in order to identify solutions.
 
 ![](/images/discover/assumption_smash_workshop.png)
 
