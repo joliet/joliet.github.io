@@ -5,9 +5,9 @@
 // - - - - - - - - - - - - - - - - - -
 
 .intro {
-	
+
 	h1 {
-		
+
 		@include mq(tabletp) {
 			white-space: pre-line;
 		}
@@ -212,7 +212,7 @@
 				font-size: $p-large;
 			}
 		}
-		
+
 		tr {
 
 			&:nth-child(2n) {
@@ -276,7 +276,7 @@
 					text-align: center;
 					color: $text-light-color;
 				}
-				
+
 				p {
 					display: inline;
 					max-width: 100%;
@@ -295,7 +295,7 @@
 .image-wrap,
 .video-wrap {
 	position: relative;
-	max-width: 90%;
+	max-width: 70%;
 	margin: 20px auto;
 
 	@include mq(tabletp) {
