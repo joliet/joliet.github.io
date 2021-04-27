@@ -53,7 +53,7 @@ Once the product's elevator pitch was written, the group moved to writing the us
 
 In spring 2021, I facilitated a discovery session for my team to learn about how we might improve the user experience of navigating the learning technology ecosystem (from the instructor's perspective).
 
-Everyone on my team works closely with users and provides support for their service.  To get the team to think beyond the most common pain points and support requests, I chose to do an Assumption Smash exercise. This would allow the team to differentiate between facts, assumptions, ideas that need validating, and any gaps in our knowledge where we need to learn more about a problem in order to identify solutions.
+Everyone on my team works closely with users and provides support for their service.  To get the team to think beyond the most common pain points and support requests, I chose to do an Assumption Smash exercise. This would allow the team to differentiate between facts, assumptions, ideas that need validating, and any gaps in our knowledge where we need to learn more about a problem in order to identify solutions.  I provided information about the exercise in advance and created a space in Google Jamboard for each participant to brainstorm ideas.  The exercise was conducted remotely over Zoom.
 
 ![](/images/discovery/assumption_smash_workshop.png)
 
