@@ -3,7 +3,7 @@ title: 'Kits Roles'
 subtitle: 'Usability Testing'
 date: 2021-04-23
 description: Example of my work in usability testing.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/kits/kits-roles-square.png'
 ---
 
 
