@@ -3,7 +3,7 @@ title: 'Kits Help Site'
 subtitle: 'Content Strategy'
 date: 2020-11-01
 description: An example of content I've designed for a help site.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/kits/kits-help-square.png'
 ---
 
 
