@@ -3,7 +3,7 @@ title: 'Discovery'
 subtitle: 'UX Workshops'
 date: 2019-12-01
 description: Examples of UX workshops I've designed and conducted.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/discovery/discovery-square.png'
 ---
 
 
