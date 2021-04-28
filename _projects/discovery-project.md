@@ -1,7 +1,7 @@
 ---
 title: 'Discovery'
 subtitle: 'UX Workshops'
-date: 2018-06-30 00:00:00
+date: 2019-12-01
 description: Examples of UX workshops I've designed and conducted.
 featured_image: '/images/demo/demo-square.jpg'
 ---

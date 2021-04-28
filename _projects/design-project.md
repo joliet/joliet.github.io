@@ -1,7 +1,7 @@
 ---
 title: 'Design'
 subtitle: 'Examples of design work'
-date: 2018-06-30 00:00:00
+date: 2019-11-01
 description: Examples of design work.
 featured_image: '/images/demo/demo-square.jpg'
 ---

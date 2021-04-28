@@ -1,7 +1,7 @@
 ---
 title: 'Kits Help Site'
 subtitle: 'Content Strategy'
-date: 2018-06-30 00:00:00
+date: 2020-11-01
 description: An example of content I've designed for a help site.
 featured_image: '/images/demo/demo-square.jpg'
 ---
