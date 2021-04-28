@@ -3,7 +3,7 @@ title: 'Design'
 subtitle: 'Examples of Design Work'
 date: 2019-11-01
 description: Examples of design work.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/design/design-square.jpg'
 ---
 
 
