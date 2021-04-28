@@ -13,16 +13,16 @@ In 2019, I conducted usability testing for a new design and discovered that user
 
 Starting with what I learned through usability testing, I created a project plan to improve role naming.  
 
-**Problem**: Existing role names do not make sense to users in collaboration kits.
+**Problem**: *Existing role names do not make sense to users in collaboration kits.*
 
-**Hypothesis**: Role names used in other collaboration tools are expected.
+**Hypothesis**: *Role names used in other collaboration tools are expected.*
 
-**Metric**: Users will select the correct role for collaborators based on permissions needed 85% of the time during the final round of usability testing.
+**Metric**: *Users will select the correct role for collaborators based on permissions needed 85% of the time during the final round of usability testing.*
 
 The overall process would involve research of role names of integrated collaboration tools, more user research to understand users' mental models of roles names and permissions, selection of new roles based on this research and more usability testing.  
 
 
-**Research**  -->  **Usability Test** --> **Prototype** --> **Usability Test** --> **Roll out**
+***Research***  -->  ***Usability Test*** --> ***Prototype*** --> ***Usability Test*** --> ***Roll out***
 
 ---
 
