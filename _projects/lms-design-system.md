@@ -3,7 +3,7 @@ title: 'Learning Managment System'
 subtitle: 'Design System'
 date: 2020-01-01
 description: A design system project for an LMS.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/lms/design-system-square.png'
 ---
 
 
