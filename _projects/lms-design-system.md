@@ -17,9 +17,9 @@ The first step in this project was to meet with a UX designer and visual designe
 
 ***Scope*** : *Only user-facing tools would be evaluated for UI inconsistencies; no admin tools would be considered as part of the project.*
 
-***Deliverable*** : *A pattern library would be established for the product making it easier to fix current inconsistent designs and make new development easier and more consistent.*
+***Deliverable*** : *A pattern library would be established for the product making it easier to fix current inconsistent designs and make new development easier and more consistent.*  
 
-
+	
 We defined the following plan for the project:
 
 ***UI Inventory***  -->  ***Establish New Designs Patterns*** --> ***Build Consensus for Designs*** --> ***Research and Identify Pattern Library Solution***
