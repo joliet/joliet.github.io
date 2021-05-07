@@ -32,7 +32,7 @@ My main role in the project was to facilitate the UI inventory as a community-wi
 
 In collaboration with the CrUX team, I created UI inventory template in Google Slides for each tool in our scope.
 
-![](/images/lms/design-system_inv.png)
+![](/images/lms/design-system-inv.png)
 
 I created a Google Sheet to track the overall progress of the project.  Volunteers could sign up to inventory a specific tool and track their level of completion.
 
