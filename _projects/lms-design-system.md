@@ -19,29 +19,38 @@ The first step in this project was to meet with a UX designer and visual designe
 
 ***Deliverable*** : *A pattern library would be established for the product making it easier to fix current inconsistent designs and make new development easier and more consistent.*
 
-We defined the following plan for the project:
 
+We defined the following plan for the project:
 
 ***UI Inventory***  -->  ***Establish New Designs Patterns*** --> ***Build Consensus for Designs*** --> ***Research and Identify Pattern Library Solution***
 
+---
+
 My main role in the project was to facilitate the UI inventory as a community-wide project, coordinate discussions for consensus on designs, and to facilitate discussions with developers on next steps for pattern library product selection and implementation.  The new UI pattern designs were created by a visual designer on Duke's CrUX team.
 
-1. UI inventory
+**1. UI inventory**
 
 In collaboration with the CrUX team, I created UI inventory template in Google Slides for each tool in our scope.
 
+![](/images/lms/forums_interface_inventory_template.png)
+
+![](/images/lms/forums_interface_inventory_nav.png)
+
+![](/images/lms/forums_interface_inventory_buttons.png)
 
 I created a Google Sheet to track the overall progress of the project.  Volunteers could sign up to inventory a specific tool and track their level of completion.
 
-2. Establish new design patterns
+![](/images/lms/interface_inventory_signup.png)
+
+**2. Establish new design patterns**
 
 When the UI inventory was completed, I worked with a visual design on the CrUX team to create new UI patterns.  My role in her process was the product expert to help her understand the use cases for tools and top tasks for each.
 
-3. Build consensus for designs.
+**3. Build consensus for designs.**
 
 When the new design patterns were ready, I connected the designer to the community to discuss the designs.  Issues and ideas would often come up that were out of scope for the project.  I tracked these for the community by creating new Jiras or Confluence pages in our project space.
 
-4. Research and identify pattern library solutions.
+**4. Research and identify pattern library solutions**
 
 Part of this project was to select the right place for the new design patterns to live.  I partnered with a developer in the community to lead this aspect of the project.  I connected him with staff at Duke who had experience with Pattern Lab and other products.
 
