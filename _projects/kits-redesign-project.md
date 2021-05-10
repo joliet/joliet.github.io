@@ -25,7 +25,7 @@ Using the findings from testing, I started the redesign process by developing a 
 
 Use the task flow as a guide, I sketched a wireframe and then developed a medium fidelity prototype in InVision to use for testing and feedback from users.
 
-![](/images/kits/batch_prototype_1.png)
+![](/images/kits/batch_prototype_step_1.png)
 
 Through testing I learned that users wanted to be able to sort the course results table by headers, and that a snack bar confirmation was needed on the main page to give the appropriate user feedback on the batch process status.  This snack bar message would replace the final confirmation page in the original design.
 
