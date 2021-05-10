@@ -35,7 +35,7 @@ Through testing I learned that users wanted to be able to sort the course result
 
 **Outcome**
 <br>
-The final design improved the user experience of using the Batch Create Sites feature by maintaining consistent design patterns in the redesigned application (re-used from a similar workflow), guided users through the workflow with steps, and made it easier to identify courses for selection in the first step.  During follow up interviews, users have confirmed the redesign was easier to use than the original design.
+The final design improved the user experience of using the Batch Create Sites feature by maintaining consistent design patterns in the redesigned application (re-used from a similar workflow), guided users through the workflow with steps, and made it easier to identify courses for selection in the first step.  During follow up interviews, users have confirmed the redesign was easier to use than the original design.  The second option on the main screen, Batch Add User to Sites, has become a separate, stand-alone tool in the application's Admin Console.
 
 
 ---
