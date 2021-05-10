@@ -11,6 +11,6 @@ I'm currently a product manager and UX designer at Duke University leading a tea
 
 Prior to my current role, I worked as an application manager and service lead for Duke's open-source learning management system.  In that role, I worked extensively with the open source community to build their product.  This included serving as QA lead, facilitating a project to update to the product's style guide, and co-chairing the UX Working Group.
 
-All of my professional experience and skills are listed on my [resume](/images/design/Tingen_Jolie_Resume.pdf).
+All of my professional experience and skills are listed on my [CV](/images/design/Tingen_Jolie_CV.pdf).
 
 When I'm away from my keyboard, I bike, read, and watch movies with my husband and daughter.
