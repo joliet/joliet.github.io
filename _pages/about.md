@@ -1,11 +1,10 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: Hello there,
+subtitle:
+description: Info about Jolie.
+featured_image:
 ---
 
-![](/images/demo/demo-landscape.jpg)
 
 ## Features
 
