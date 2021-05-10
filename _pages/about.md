@@ -1,33 +1,17 @@
 ---
-title: Hello there,
+title:
 subtitle:
 description: Info about Jolie.
 featured_image:
 ---
 
 
-## Features
+*A Little More About Me*
 
-We've packed Duet full of powerful features to help showcase your work:
+I'm currently a product manager and UX designer at Duke University leading a team in redesigning a middleware product.  My skills include product discovery, content strategy and UX writing, user research, Agile/Scrum product development, and Lean UX.
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+Prior to my current role, I worked as an application manager and service lead for Duke's open-source learning management system.  In that role, I worked extensively with the open source community to build their product.  This included serving as QA lead, facilitating a project to update to the product's style guide, and co-chairing the UX Working Group.
 
-## Get Duet
+All of my professional experience and skills are listed on my [resume](/images/design/Tingen_Jolie_Resume.pdf).
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+When I'm away from my keyboard, I bike, read, and watch movies with my husband and daughter.
