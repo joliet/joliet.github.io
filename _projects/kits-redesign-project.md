@@ -23,7 +23,7 @@ Using the findings from testing, I started the redesign process by developing a 
 
 ![](/images/kits/batch_sites_task_flow.png)
 
-Use the task flow as a guide, I sketched a wireframe and then developed a medium fidelity prototype in InVision to use for testing and feedback from users.
+With the task flow as a guide, I sketched a wireframe and then developed a medium fidelity prototype in InVision to use for testing and feedback from users.
 
 ![](/images/kits/batch_prototype_step_1.png)
 
