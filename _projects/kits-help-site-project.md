@@ -20,7 +20,7 @@ I decided that Jekyll would be a good fit.  Luckily, I found a Jekyll documentat
 
 In the Just the Docs theme, the search box is persistent and displays at the top of all pages allowing users to quickly find the information they need. The Jekyll pages are in the team's GitHub repo making it easy for everyone on the team to update documentation using Markdown.  This was a big improvement to the in-app pages in the old design that required a developer to maintain.
 
-The structure of the documentation follows the same structure as our documentation for other tools which includes a table of contents and page titles framed as questions such as "how do I...".
+The structure of the documentation follows the same structure as our documentation for other tools which includes a table of contents and page titles framed as questions such as "How do I...".
 
 ![](/images/kits/kits_help.png)
 
