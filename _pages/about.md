@@ -1,5 +1,5 @@
 ---
-title: A Little More About Me
+title: A little more about me
 subtitle:
 description: Info about Jolie.
 featured_image:
