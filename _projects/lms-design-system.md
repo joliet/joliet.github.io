@@ -44,7 +44,7 @@ When the UI inventory was completed, I worked with a visual designer on the CrUX
 
 **3. Build consensus for designs.**
 
-When the new design patterns were ready, I connected the designer to the community to discuss the designs.  Issues and ideas would often come up that were out of scope for the project.  I tracked these for the community by creating new Jiras or Confluence pages in our project space.
+When the new design patterns were ready, I connected the designer with the community to discuss the designs.  Issues and ideas would often come up that were out of scope for the project.  I tracked these for the community by creating new Jiras or Confluence pages in our project space.
 
 **4. Research and identify pattern library solutions**
 
