@@ -27,15 +27,17 @@ With the task flow as a guide, I sketched a wireframe and then developed a mediu
 
 ![](/images/kits/batch_prototype_step_1.png)
 
-Through testing I learned that users wanted to be able to sort the course results table by headers, and that a confirmation message was needed at the end of the workflow to give the appropriate user feedback on the batch process status.  This snack bar confirmation message would replace the final confirmation page in the original design.
+Through testing I learned that users wanted to be able to sort the course results table by headers, and that a confirmation message was needed at the end of the workflow to give the appropriate user feedback on the batch process status.  The confirmation message would replace the final confirmation page in the original design and use the new snack bar pattern we established during the overall application redesign.
 
-![](/images/kits/demo-landscape.jpg)
+![](/images/kits/batch_confirmation.png)
 
 ---
 
 **Outcome**
 <br>
-The final design improved the user experience of using the Batch Create Sites feature by maintaining consistent design patterns in the redesigned application (re-used from a similar workflow), guided users through the workflow with steps, and made it easier to identify courses for selection in the first step.  During follow up interviews, users have confirmed the redesign was easier to use than the original design.  The second option on the main screen, Batch Add User to Sites, has become a separate, stand-alone tool in the application's Admin Console.
+The final design improved the user experience of using the Batch Create Sites feature by maintaining consistent design patterns in the redesigned application (re-used from a similar workflow), guided users through the workflow with steps, and made it easier to identify courses for selection in the first step.  During follow up interviews, users have confirmed the redesign was easier to use than the original design.  
+
+The second option on the main screen, Batch Add User to Sites, has become a separate, stand-alone tool in the application's Admin Console.
 
 
 ---
