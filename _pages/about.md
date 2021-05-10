@@ -1,12 +1,11 @@
 ---
-title:
+title: A Little More About Me
 subtitle:
 description: Info about Jolie.
 featured_image:
 ---
 
 
-## A Little More About Me
 
 I'm currently a product manager and UX designer at Duke University leading a team in redesigning a middleware product.  My skills include product discovery, content strategy and UX writing, user research, Agile/Scrum product development, and Lean UX.
 
