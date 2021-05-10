@@ -3,7 +3,7 @@ title: 'Kits Redesign'
 subtitle: 'Lean UX'
 date: 2021-03-01
 description: Lean UX re-design example.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/kits/kits-redesign-square.png'
 ---
 
 
