@@ -13,17 +13,40 @@ I started by interviewing people who use the batch feature.  I asked them to wal
 
 From these interviews, I learned that not many people use a second option on the tool's main page for batch adding users to sites.
 
+![](/images/kits/batch_main_menu.png)
 
 I also learned that the biggest pain point for users was course selection on the first page.
 
+![](/images/kits/batch_select_courses.png)
+
 Using the findings from testing, I started the redesign process by developing a task flow.
+
+![](/images/kits/batch_sites_task_flow.png)
 
 Use the task flow as a guide, I sketched a wireframe and then developed a medium fidelity prototype in InVision to use for testing and feedback from users.
 
+<div class="row">
+ <div class="column">
+	 <img src="/images/kits/batch_prototype_1.png" alt="Step 1 of batch feature" style="width:100%">
+ </div>
+ <div class="column">
+	 <img src="/images/kits/batch_prototype_2.png" alt="Step 2 of batch feature" style="width:100%">
+ </div>
+ <div class="column">
+	 <img src="/images/kits/batch_prototype_3.png" alt="Step 3 of batch feature" style="width:100%">
+ </div>
+</div> 
+
+![](/images/kits/demo-landscape.jpg)
+
 Through testing I learned that users wanted to be able to sort the course results table by headers, and that a snack bar confirmation was needed on the main page to give the appropriate user feedback on the batch process status.  This snack bar message would replace the final confirmation page in the original design.
 
+![](/images/kits/demo-landscape.jpg)
 
+---
 
-![](/images/demo/demo-landscape.jpg)
+*Outcome*
+The final design improved the user experience of using the Batch Create Sites feature by maintaining consistent design patterns in the redesigned application (re-used from a similar workflow), guided users through the workflow with steps, and made it easier to identify courses for selection in the first step.  During follow up interviews, users have confirmed the redesign was easier to use than the original design.
+
 
 ---
