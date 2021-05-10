@@ -13,4 +13,4 @@ Prior to my current role, I worked as an application manager and service lead fo
 
 All of my professional experience and skills are listed on my [CV](/images/design/Tingen_Jolie_CV.pdf).
 
-When I'm away from my keyboard, I bike, read, and watch movies with my husband and daughter.
+When I'm away from my keyboard, I like to bike, read, watch movies and play games with my husband and daughter.
