@@ -7,7 +7,7 @@ featured_image: '/images/lms/design-system-square.png'
 ---
 
 
-In 2017, I partnered with Duke's CrUX team to lead a project for an open source software community to develop a pattern library for their product.  The product was a learning management system (Sakai) which had been originally developed by four different universities that had merged their home-grown products into one.  While the product had been active with many contributors for more than a decade, UI inconsistencies were pervasive.
+In 2017, I partnered with Duke's CrUX team to lead a project for an open source software community to develop a pattern library for their product.  The product was a learning management system (Sakai) which had been originally developed by four different universities that had merged their home-grown products into one.  The product had been active with many contributors for more than a decade and UI inconsistencies were pervasive.
 
 ---
 
@@ -40,7 +40,7 @@ I created a Google Sheet to track the overall progress of the project.  Voluntee
 
 **2. Establish new design patterns**
 
-When the UI inventory was completed, I worked with a visual design on the CrUX team to create new UI patterns.  My role in her process was the product expert to help her understand the use cases for tools and top tasks for each.
+When the UI inventory was completed, I worked with a visual designer on the CrUX team to create new UI patterns.  My role in the designer's process was to be the product expert and help her understand the use cases for tools and top tasks for each.
 
 **3. Build consensus for designs.**
 
@@ -48,7 +48,7 @@ When the new design patterns were ready, I connected the designer to the communi
 
 **4. Research and identify pattern library solutions**
 
-Part of this project was to select the right place for the new design patterns to live.  I partnered with a developer in the community to lead this aspect of the project.  I connected him with staff at Duke who had experience with Pattern Lab and other products.
+Part of this project was to select the right product for the new design patterns.  I partnered with a developer in the community to lead this aspect of the project.  I connected him with staff at Duke who had experience with Pattern Lab and other products.
 
 
 ---
