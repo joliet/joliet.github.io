@@ -27,13 +27,13 @@ Use the task flow as a guide, I sketched a wireframe and then developed a medium
 
 <div class="row">
  <div class="column">
-	 <img src="/images/kits/batch_prototype_1.png" alt="Step 1 of batch feature" style="width:30%">
+	 <img src="/images/kits/batch_prototype_1.png" alt="Step 1 of batch feature" style="width:20%">
  </div>
  <div class="column">
-	 <img src="/images/kits/batch_prototype_2.png" alt="Step 2 of batch feature" style="width:30%">
+	 <img src="/images/kits/batch_prototype_2.png" alt="Step 2 of batch feature" style="width:20%">
  </div>
  <div class="column">
-	 <img src="/images/kits/batch_prototype_3.png" alt="Step 3 of batch feature" style="width:30%">
+	 <img src="/images/kits/batch_prototype_3.png" alt="Step 3 of batch feature" style="width:20%">
  </div>
 </div>
 
