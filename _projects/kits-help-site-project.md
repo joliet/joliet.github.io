@@ -25,6 +25,7 @@ The search box is persistent at the top of all documentation pages allowing user
 ---
 
 *Outcome*
+
 We are still collecting data, both in usage analytics and through interviews, on how people are using the new documentation.  So far, qualitative user feedback has been favorable.
 
 ---
