@@ -7,13 +7,13 @@ featured_image: '/images/discovery/discovery-square.png'
 ---
 
 
-A few examples of UX workshops I've designed and conducted.
+A few examples of UX workshops I've designed and facilitated.
 
 ---
 
 #### Design Thinking
 
-I was asked to assist in leading a design thinking workshop for the 'Hack Your Eduction' Spring Breakthrough course in collaboration with two faculty and two other members of my team. Specifically, my role was provide guidance for ideation techniques and to help students design a usability test appropriate for their prototype.  A working knowledge of many techniques for ideation and testing was required as I wouldn't know the details of the project until I stepped into the classroom - ideas were rapidly evolving.
+I was asked to assist in leading a design thinking workshop for the 'Hack Your Eduction' Spring Breakthrough course in collaboration with two faculty and two members of my team. Specifically, my role was to provide guidance for ideation techniques and to help students design a usability test appropriate for their prototype.  A working knowledge of many techniques for ideation and testing was required as I wouldn't know the details of the project until I stepped into the classroom - ideas were rapidly evolving.
 
 The students had chosen a project to promote the adoption of open educational resources which they hoped would make course materials more affordable and accessible should more faculty adopt them.  They had designed a series of promotional assets.  I suggested they test these materials in two ways - with a five-second test to validate the effectiveness of their messages, and with role playing to ensure their messages would resonate with faculty.
 
