@@ -48,7 +48,7 @@ When the new design patterns were ready, I connected the designer with the commu
 
 **4. Research and identify pattern library solutions**
 
-Part of this project was to select the right pattern library product.  I partnered with a developer in the community to lead this aspect of the project.  I connected him with staff at Duke who had experience with Pattern Lab and other products.
+Part of this project was to select the right pattern library product for the new designs.  I partnered with a developer in the community to lead this aspect of the project.  I connected him with staff at Duke who had experience with Pattern Lab and other products.
 
 
 ---
