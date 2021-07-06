@@ -7,7 +7,7 @@ featured_image: '/images/kits/kits-redesign-square.png'
 ---
 
 
-In Q3 of 2019, I worked on redesigning a feature in Kits (a middleware product) that allowed academic support staff to batch create LMS course sites. The goal was to improve the workflow of the feature, make it easier to see and select courses in the first step, and use the new design patterns that were established for the overall redesign of the Kits application.
+In Q3 of 2019, I worked on redesigning a feature in Kits (a middleware product) that allowed academic support staff to batch create course sites in the university's Learning Management System (LMS). The goal was to improve the workflow of the feature, make it easier to see and select courses in the first step, and use the new design patterns that were established for the overall redesign of the Kits application.
 
 I started by interviewing people who use the batch feature.  I asked them to walk me through their current process.  I used this opportunity to ask follow up questions to their responses, actions in the walkthrough that might indicate confusion or pain points, and to solicit suggestions for how we could improve the feature.
 
