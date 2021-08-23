@@ -9,7 +9,7 @@ featured_image: '/images/kits/kits-help-square.png'
 
 When I joined the Kits Team in 2019, there was no documentation, just a form users could fill out requesting help.  And while the older version of the tool had a few documentation pages, it was far from comprehensive.  It also lacked good information architecture and an easy way to search.
 
-Adding complete documentation to the application was a high priority before we starting shifting all users to the newly redesigned tool.  I had the following goals for the design of the new documentation:
+Adding complete documentation to the application was a high priority before we started shifting all users to the newly redesigned tool.  I had the following goals for the design of the new documentation:
 
 1. *A search option would be prominent in the design.*
 2. *The design and organization of the content would be inline with other supported tools.*
